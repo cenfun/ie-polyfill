@@ -1,6 +1,6 @@
 {
   "name": "ie-polyfill",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ie-polyfill",
   "main": "dist/ie-polyfill.js",
   "scripts": {
@@ -14,13 +14,14 @@
     "url": "git+https://github.com/cenfun/ie-polyfill.git"
   },
   "devDependencies": {
-    "@babel/core": "^7.13.8",
+    "@babel/core": "^7.13.10",
     "babel-loader": "^8.2.2",
     "core-js": "^3.9.1",
     "eslint": "^7.22.0",
     "regenerator-runtime": "^0.13.7",
-    "webpack": "^5.24.3",
+    "webpack": "^5.26.1",
     "webpack-cli": "^4.5.0",
-    "webpack-stats-report": "^1.1.8"
+    "webpack-stats-report": "^1.1.8",
+    "whatwg-fetch": "^3.6.2"
   }
 }
