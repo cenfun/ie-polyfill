@@ -5,7 +5,7 @@
 * [@babel/polyfill](https://babel.dev/docs/en/babel-polyfill) has been deprecated since Babel 7.4.0
 * want to load latest core-js and regenerator-runtime without build-ins
 ## Versions
-* [core-js/stable](https://github.com/zloirock/core-js) ^3.9.1
+* [core-js](https://github.com/zloirock/core-js) ^3.9.1
 * [regenerator-runtime](https://github.com/facebook/regenerator/tree/master/packages/regenerator-runtime) ^0.13.7
 
 

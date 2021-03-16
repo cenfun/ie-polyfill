@@ -1,6 +1,6 @@
 {
   "name": "ie-polyfill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ie-polyfill",
   "main": "dist/ie-polyfill.js",
   "scripts": {
@@ -15,7 +15,6 @@
   },
   "devDependencies": {
     "@babel/core": "^7.13.8",
-    "@babel/preset-env": "^7.13.9",
     "babel-loader": "^8.2.2",
     "core-js": "^3.9.1",
     "eslint": "^7.22.0",
