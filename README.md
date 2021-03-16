@@ -1,5 +1,5 @@
 # ie-polyfill
-> The way for ie to continue working
+> The way to keep IE working with modern functionality
 
 ##  Why this?
 * [@babel/polyfill](https://babel.dev/docs/en/babel-polyfill) has been deprecated since Babel 7.4.0
